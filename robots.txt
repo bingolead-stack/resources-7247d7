@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bingolead-stack.github.io/resources-7247d7/sitemap.xml
